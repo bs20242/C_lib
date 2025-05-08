@@ -1,0 +1,12 @@
+[project]
+name = "C_lib"
+version = "0.1.0"
+description = "Biblioteca de operações matemáticas para uso com FastAPI"
+authors = [{ name="Seu Nome", email="seu@email.com" }]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
