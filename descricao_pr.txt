@@ -1,1 +1,1 @@
-A partir da análise dos commits, este pull request remove a biblioteca `c_lib.rar` e adiciona chamadas duplicadas à função `somar` com diferentes argumentos no arquivo `teste.py`. O objetivo é realizar testes e experimentos com a função `somar` e a remoção da biblioteca.
+O objetivo deste pull request é realizar testes e ajustes na biblioteca `c_lib`. O arquivo `c_lib.rar` foi deletado e o arquivo `teste.py` foi modificado para adicionar mais chamadas à função `somar` da biblioteca `c_lib`, visando testar a sua funcionalidade com diferentes entradas.
