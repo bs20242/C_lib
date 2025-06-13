@@ -3,11 +3,5 @@ from c_lib import somar
 print(somar(5, 3))  
 from c_lib import somar
 
-print(somar(8, 9))  
-from c_lib import somar
-
-
-print(somar(8, 9))  
-from c_lib import somar
 
 
