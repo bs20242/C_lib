@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: C_lib
+Version: 0.1.0
+Summary: Biblioteca de operações matemáticas para uso com FastAPI
+Author-email: Seu Nome <seu@email.com>
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# C_lib
+
+ operações básicas
+
+## Instalação
+
+```bash
+pip install git+https://github.com/bs20242/C_lib

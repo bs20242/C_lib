@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+C_lib.egg-info/PKG-INFO
+C_lib.egg-info/SOURCES.txt
+C_lib.egg-info/dependency_links.txt
+C_lib.egg-info/top_level.txt
+c_lib/__init__.py
+c_lib/core.py
