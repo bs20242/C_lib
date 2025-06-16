@@ -6,10 +6,10 @@ soma = a + b
 print(soma)  
 
 soma = sum([1, 2, 3, 4, 5])
-print(soma) 
+p(soma) 
 
-soma = sum((1, 2, 3, 4, 5))
+oa = sum((1, 2, 3, 4, 5))
 print(soma)
 
-soma = sum({1, 2, 3, 4, 5})
+soma  sum({1, 2, 3, 4, 5})
 print(soma)
