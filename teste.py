@@ -8,8 +8,4 @@ print(soma)
 soma = sum([1, 2, 3, 4, 5])
 p(soma) 
 
-oa = sum((1, 2, 3, 4, 5))
-print(soma)
-
-soma  sum({1, 2, 3, 4, 5})
-print(soma)
+#corrigindo função soma
